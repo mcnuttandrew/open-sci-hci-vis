@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+
+
+a:visited, a:link {
+    color: #56CCF2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+#left-banner {
+    min-width: 400px;
+    width: 40%;
+    background-image: url("assets/sci-image.png");
+    background-size: contain;
+}
+
+
+#content-right {
+    padding: 2rem;
+    width: 60%;
+}
