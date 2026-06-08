@@ -17,7 +17,7 @@ The central learning objective in this course is: at the end of the course stude
 
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: mcnutt@cs.ubc.ca  
-**Class**: 9:30 to 11:00 a.m. Tuesday/Thursday in SWNG 410  
+**Class**: 9:30 to 11:00 a.m. Tuesday/Thursday
 **Course forum**: TBD  
 **Office Hours**: TBD
 
