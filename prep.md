@@ -37,6 +37,8 @@ Research Objects: Towards Exchange and Reuse of Digital Knowledge
 
 HARK No More: On the Preregistration of CHI Experiments
 
+https://jessicahullman.substack.com/p/what-stories-should-we-tell-about
+
 Machine actionable metadata models
 
 https://scatter.wordpress.com/2026/07/31/science-funding-and-the-cherry-picking-problem/
@@ -44,3 +46,5 @@ https://scatter.wordpress.com/2026/07/31/science-funding-and-the-cherry-picking-
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8101540/ The case for formal methodology in scientific reform
 
 How Much Replication Is Enough? Balancing Novelty and Replication in a Truth-Driven Evolutionary Simulation https://osf.io/x7n9h
+
+https://bsky.app/profile/markrubin.bsky.social/post/3mzfxrfnqzk27
