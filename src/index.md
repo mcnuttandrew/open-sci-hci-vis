@@ -5,11 +5,11 @@ session: "Winter Term 2 2026 (Spring)"
 permalink: "/"
 ---
 
-What does it mean to practice sustainable high quality science in human-centered computer science? This course is an exploration of the role, structure, and form of scientific practices in human-computer interaction (HCI) and visualization, particularly lensed through the perspectives of [Open Science](https://en.wikipedia.org/wiki/Open_science). In addition to the mechanisms and procedures for doing this mode of work, understanding the meaning of open science also necessitates understanding the socially situated nature of science (and computer science) more generally.
+What does it mean to practice sustainable high quality science in human-centered computer science? This course is an exploration of the role, structure, and form of scientific practices in human-computer interaction (HCI) and visualization (and related areas), particularly lensed through the perspectives of [Open Science](https://en.wikipedia.org/wiki/Open_science). In addition to the mechanisms and procedures for doing this mode of work, understanding the meaning of open science also necessitates understanding the socially situated nature of science (and computer science) more generally.
 
 We will aim to answer fundamental questions (or more likely merely sketch the terrain of) driving contemporary scientific questions, such as: what is reproducibility or replicability? As computer scientists how should we approach conceiving of our as work as science? How does open science intersect with the varied epistemological backings held by different scientific communities? How should we approach open science goals in the age of AI?
 
-To achieve this goal, this course is a semi-structured reading group, interlaced with a series of lightly structured assignments that service different aspects of this broad goal.
+To achieve this goal, this course is structured as a semi-structured reading group which will also involve occasional exercises to further our understanding of the topics we are considering---supported by an overarching course projects.
 
 The central learning objective in this course is: at the end of the course students will be able to explain the structure of open science generally, and replication/reproducibility specifically, within their field and will be able to put this techniques into practice.
 
@@ -26,7 +26,7 @@ The central learning objective in this course is: at the end of the course stude
 - **How do I hear about course updates?** You'll get an email
 - **How do I get in touch with the course staff?** Use the course forum
 - **How do I get grades?** You'll be emailed periodically
-- **Can I take this class if i'm not in cs?** While this course is generally focused on HCI/Vis, it is also structured in such a way as to be relevant to anyone with an interest in open science and reproducibility. Prior experience with HCI or Vis is preferred, but not specifically necessary.
+- **Can I take this class if i'm not in cs?** While this course is generally focused on HCI/Vis, it is also structured in such a way as to be relevant to anyone with an interest in open science and reproducibility. Prior experience with HCI or Vis (or anything human related really) is preferred, but not specifically necessary.
 
 # Schedule
 
@@ -42,21 +42,24 @@ For each class, there will be some assigned reading that you should do before cl
 - Beyond Advocacy: A Design Space for Replication-Related Studies
 - Troubling Collaboration: Matters of Care for Visualization Design Study
 
-# Assignments
+In addition, in the interest of transparency, you can see the [prep.md](https://github.com/mcnuttandrew/open-sci-hci-vis/blob/main/prep.md) file for the current mullings on the the class.
+
+# Grading
 
 The set of assignments in the class are still in flight, but generally it will have something approaching the following structure
 
 - Project (50%): Students will complete a replication of a study relevant to their field. This staged assignment will involve a series of milestones (e.g., proposal, check in, write up, presentation). Depending on the specific study, this might involve rebuilding the stimuli and running that protocol with new participants.
-- Data Replication (10%): Students will complete a replication of an existing study that involves acquiring and re-running existing data from that study. The model for this assignment is the [replication games initiative](https://www.nature.com/articles/d41586-023-02997-5).
+- Participation / reading (50%): For each class that has required readings students will be expected submit reading summaries. For some classes there will be specific exercises (as an example, go [revibe something](https://dl.acm.org/doi/10.1145/3830398.3830627)) which may stand in for readings.
+<!-- - Data Replication (10%): Students will complete a replication of an existing study that involves acquiring and re-running existing data from that study. The model for this assignment is the [replication games initiative](https://www.nature.com/articles/d41586-023-02997-5).
 - Open Science Hazards Presentations / Test (10%): In groups or individually students will present on one of a predefined list of scientific hazards (such as the texas sharp shooter fallacy), after which there will be a test on identifying the usage of fallacies
 - ReVISit tutorial (5%): to provide a set of tools and materialized concepts students will put together and deploy a working [reVISit](https://revisit.dev/) experiment.
-- Reading responses (25%): For each class that has required readings students will be expected submit reading summaries.
+- Reading responses (25%): For each class that has required readings students will be expected submit reading summaries. -->
 
-Specific rubrics will be made available for each of these assignments. Grades may be curved depending on class performance.
+<!-- Specific rubrics will be made available for each of these assignments. Grades may be curved depending on class performance. -->
 
 # Policies
 
-Policies for this course and expectations of students will be in accordance with UBC policies (e.g., disability, inclusion) and expectations more generally. This document is still under development and these policies will
+Policies for this course and expectations of students will be in accordance with UBC policies (e.g., disability, inclusion) and expectations more generally. Here are listed some specific additional policies relevant to the course.
 
 Assignments operate on a soft/hard deadline schedule. Each assignment has a deadline, for which students should aim to submit the relevant work (soft deadline). However, each assignment may be submitted up to a week late with no penalty, after which no credit will be available (hard deadline). The exception to this policy is for readings which must be submitted by 7am before class.
 

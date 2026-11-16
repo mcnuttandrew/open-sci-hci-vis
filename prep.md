@@ -48,3 +48,5 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8101540/ The case for formal methodolog
 How Much Replication Is Enough? Balancing Novelty and Replication in a Truth-Driven Evolutionary Simulation https://osf.io/x7n9h
 
 https://bsky.app/profile/markrubin.bsky.social/post/3mzfxrfnqzk27
+
+yin 94, theoretical replication
